@@ -1,0 +1,5 @@
+troca de um lãmpada
+primeiro: vereficar se o dijuntor esta desligado
+segundo : verificar se os fios não estão energizados
+terceiro: coloque a lâmpada corretamente
+ligue o dijuntor pronto a instalação.
